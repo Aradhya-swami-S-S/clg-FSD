@@ -1,6 +1,6 @@
-/* body{
+body{
   background: linear-gradient(rgb(217, 81, 81),rgb(97, 215, 197));
-} */
+}
 h1{
   font-size: 80px;
   /* font-weight: 800; */
@@ -42,6 +42,6 @@ p{
   margin-left:auto;
   width: 100%;
 }
-#web{
+/* #web{
   background-color: rgb(255, 196, 196);
-}
+} */
