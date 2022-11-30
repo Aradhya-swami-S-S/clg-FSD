@@ -49,3 +49,12 @@ p{
   width: 100%;
   padding-right:40px ;
 }
+
+.navbar-item-login{
+  font-weight: bolder;
+}
+.navbar-item-login:hover{
+  font-size:20px;
+  margin-bottom:2px ;
+}
+
