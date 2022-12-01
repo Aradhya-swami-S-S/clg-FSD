@@ -1,24 +1,34 @@
-body{
+/* body{
   background: linear-gradient(rgb(217, 81, 81),rgb(97, 215, 197));
+} */
+body{
+  background-image:url('./bubble-illu.jpg') ;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
 }
+
 h1{
+  
   font-size: 80px;
-  color:#000000;
-  padding-top: 30%;
-  margin-left: 25px;
+  color:#fff;
+  text-align: center;
   font-family: 'Exo 2', sans-serif;
 }
-h5{
-  margin-left: 25px;
-  font-weight: bolder;
-  color: rgb(255, 255, 255);
-}
+
 p{
   font-weight: bold;
-  color: #251B37;
-  margin-left: 25px;
+  color: #b5b0b0;
+  text-align: center;
   letter-spacing: 0.1rem;
 }
+h5{
+  text-align: center;
+  font-weight: bolder;
+  color:#fff;
+}
+
+
 
 /* .navbar {
     
@@ -39,16 +49,16 @@ p{
     }
 } */
 
-.discription{
+/* .discription{
   padding-left:5% ;
-}
+} */
 
-.car{
+/* .car{
   text-shadow: black,1px 1px 1px 1px;
   margin-left:auto;
   width: 100%;
   padding-right:40px ;
-}
+} */
 
 .navbar-item-login{
   font-weight: bolder;
@@ -58,3 +68,15 @@ p{
   margin-bottom:2px ;
 }
 
+/* #web{
+  background-image:url('./bubble-illu.jpg') ;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+} */
+
+.btn{
+  margin-left: 45%;
+  margin-top: 50px;
+  font-weight: bolder;
+}
