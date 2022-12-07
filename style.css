@@ -12,19 +12,18 @@ h1 {
 
   font-size: 80px;
   color: #fff;
-  text-align: center;
+ 
   font-family: 'Exo 2', sans-serif;
 }
 
 p {
   font-weight: bold;
   color: #b5b0b0;
-  text-align: center;
+
   letter-spacing: 0.1rem;
 }
 
 h5 {
-  text-align: center;
   font-weight: bolder;
   color: #fff;
 }
@@ -50,9 +49,11 @@ h5 {
     }
 } */
 
-/* .discription{
+.discription{
+  position: absolute;
+  margin-top: 15%;
   padding-left:5% ;
-} */
+}
 
 /* .car{
   text-shadow: black,1px 1px 1px 1px;
@@ -78,7 +79,8 @@ h5 {
 } */
 
 .btn {
-  display: flex;
-  justify-content: center;
+  position: absolute;
+  margin-left:5% ;
+  margin-top: 30%;
   font-weight: bolder;
 }
