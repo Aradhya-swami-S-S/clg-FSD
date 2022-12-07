@@ -1,31 +1,32 @@
 /* body{
   background: linear-gradient(rgb(217, 81, 81),rgb(97, 215, 197));
 } */
-body{
-  background-image:url('./bubble-illu.jpg') ;
+body {
+  background-image: url('./bubble-illu.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
 }
 
-h1{
-  
+h1 {
+
   font-size: 80px;
-  color:#fff;
+  color: #fff;
   text-align: center;
   font-family: 'Exo 2', sans-serif;
 }
 
-p{
+p {
   font-weight: bold;
   color: #b5b0b0;
   text-align: center;
   letter-spacing: 0.1rem;
 }
-h5{
+
+h5 {
   text-align: center;
   font-weight: bolder;
-  color:#fff;
+  color: #fff;
 }
 
 
@@ -60,12 +61,13 @@ h5{
   padding-right:40px ;
 } */
 
-.navbar-item-login{
+.navbar-item-login {
   font-weight: bolder;
 }
-.navbar-item-login:hover{
-  font-size:20px;
-  margin-bottom:2px ;
+
+.navbar-item-login:hover {
+  font-size: 20px;
+  margin-bottom: 2px;
 }
 
 /* #web{
@@ -75,8 +77,8 @@ h5{
   background-size: cover;
 } */
 
-.btn{
-  margin-left: 45%;
-  margin-top: 50px;
+.btn {
+  display: flex;
+  justify-content: center;
   font-weight: bolder;
 }
